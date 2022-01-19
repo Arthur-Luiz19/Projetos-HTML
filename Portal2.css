@@ -1,0 +1,32 @@
+h1{
+    font-family:cursive ;
+background-color: black;
+padding-bottom: 50px; padding-top: 50px;
+}
+
+
+body{
+color: white;
+background-color: #262626;
+}
+
+p{
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul.ctt{
+    position: relative;
+   
+    
+}
+
+a:hover{
+    color:yellow;
+    background-color: black;
+     }
+
+a{
+    color: white;
+    font-family:sans-serif;
+    font-size: 17px;
+}
